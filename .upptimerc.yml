@@ -6,7 +6,7 @@ sites:
   - name: Main Website
     url: https://www.trentwiles.com
   - name: BART API
-    url: https://bart.trentwiles.com
+    url: https://bart.trentwil.es
   - name: Internal Image Endpoint
     url: https://api.trentwil.es
 
@@ -17,13 +17,13 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Trent Wiles Status
-  introTitle: "Status page for public and some private services"
+  introTitle: "Service Status"
   introMessage: 
   navbar:
     - title: Trent Wiles Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Return Home
+      href: https://www.trentwiles.com/?utm_source=status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
