@@ -22,19 +22,19 @@
     "url": "https://bart.trentwil.es",
     "icon": "https://icons.duckduckgo.com/ip3/bart.trentwil.es.ico",
     "slug": "bart-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 261,
-    "timeWeek": 405,
-    "timeMonth": 344,
-    "timeYear": 344,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "95.04%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 348,
+    "timeDay": 351,
+    "timeWeek": 410,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 71
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.trentwil.es.ico",
     "slug": "internal-image-endpoint",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.79%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 251,
     "timeDay": 128,
     "timeWeek": 257,
     "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 72
     }
   }
 ]
