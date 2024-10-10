@@ -22,7 +22,7 @@
     "url": "https://bart.trentwil.es",
     "icon": "https://icons.duckduckgo.com/ip3/bart.trentwil.es.ico",
     "slug": "bart-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,14 +33,16 @@
     "timeWeek": 405,
     "timeMonth": 344,
     "timeYear": 344,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "Internal Image Endpoint",
     "url": "https://api.trentwil.es",
     "icon": "https://icons.duckduckgo.com/ip3/api.trentwil.es.ico",
     "slug": "internal-image-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +53,8 @@
     "timeWeek": 257,
     "timeMonth": 251,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   }
 ]
